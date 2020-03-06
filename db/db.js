@@ -21,7 +21,7 @@ const db = {
     deleteNote: async function(id){
         // read db file
         const db= await this.getNote();
-        // filter array based on unique id
+        // filter array based on if unique id matches id selected and removes object from array
         const newDB = db.filter(newNote=> newNote.id !== id)
         // overwrite file
         return writefile("db/db.json", JSON.stringify(newDB, null, 2))
