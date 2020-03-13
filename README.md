@@ -12,6 +12,10 @@ The application functions by:
 * View previously saved notes
 
 * Delete previously saved notes
+
+## Example of Application
+
+<img src="https://media.giphy.com/media/MaVCjCCl6CEQH0AfTz/giphy.gif" alt="example of app functionality gif">
  
 ## Installation
 
