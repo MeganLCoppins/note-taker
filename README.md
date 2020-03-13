@@ -33,4 +33,4 @@ To start the application user must run:
 
 Megan Coppins
 
- https://meganlcoppins.github.io/note-taker/
+https://media.giphy.com/media/MaVCjCCl6CEQH0AfTz/giphy.gif
