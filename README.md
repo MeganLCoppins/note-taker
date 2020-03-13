@@ -1,10 +1,3 @@
-## Acceptance Criteria
-
-Application should allow users to create and save notes.
-
-Application should allow users to view previously saved notes.
-
-Application should allow users to delete previously saved notes. -->
 # note-taker
 
 ## Description
@@ -20,6 +13,17 @@ The application functions by:
 
 * Delete previously saved notes
  
+## Installation
+
+    npm i 
+    npm i express
+    npm i uuid
+
+## Usage
+
+To start the application user must run:
+
+    node server.js
 
 ## Created By
 
