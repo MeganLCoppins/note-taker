@@ -3,6 +3,7 @@
 ## Description
 
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
+
 I built a note-taking application for users that need to keep track of a lot of information. The application allows the user to take notes and have written information available when needed. 
 
 The application functions by:
@@ -13,24 +14,37 @@ The application functions by:
 
 * Delete previously saved notes
 
-## Example of Application
-
-<img src="https://media.giphy.com/media/MaVCjCCl6CEQH0AfTz/giphy.gif" alt="example of app functionality gif">
- 
-## Installation
-
-    npm i 
-    npm i express
-    npm i uuid
+## Table of Contents
+* [Usage](#Usage)
+* [Demonstration](#Demonstration)
+* [Technologies](#Technologies)
+* [Deployed](#Deployed)
+* [Developer](#Developer)
 
 ## Usage
 
-To start the application user must run:
+To use the application go to the [deployed link](#Deployed). 
 
-    node server.js
+## Demonstration
 
-## Created By
+<img src="https://media.giphy.com/media/MaVCjCCl6CEQH0AfTz/giphy.gif" alt="example of app functionality gif">
+ 
+## Technologies
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* Express
+* UUID
+
+
+## Deployed
+
+https://mighty-shelf-20145.herokuapp.com/
+
+## Developer
 
 Megan Coppins
 
-https://media.giphy.com/media/MaVCjCCl6CEQH0AfTz/giphy.gif
+https://meganlcoppins.github.io/note-taker/
+
