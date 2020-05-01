@@ -27,7 +27,7 @@ To use the application go to the [deployed link](#Deployed).
 
 ## Demonstration
 
-<img src="https://media.giphy.com/media/MaVCjCCl6CEQH0AfTz/giphy.gif" alt="example of app functionality gif">
+<img src="./public/assets/images/NoteTaker.png" alt="example of note taker app">
  
 ## Technologies
 * HTML
