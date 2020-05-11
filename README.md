@@ -23,7 +23,7 @@ The application functions by:
 
 ## Usage
 
-To use the application go to the [deployed link](#Deployed). 
+To use the application go to the [deployed link](https://mighty-shelf-20145.herokuapp.com/). 
 
 ## Demonstration
 
@@ -35,6 +35,7 @@ To use the application go to the [deployed link](#Deployed).
 * Bootstrap
 * JavaScript
 * Express
+* Node.js
 * UUID
 
 
