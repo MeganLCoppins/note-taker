@@ -27,7 +27,11 @@ To use the application go to the [deployed link](https://mighty-shelf-20145.hero
 
 ## Demonstration
 
-<img src="./public/assets/images/NoteTaker.png" alt="example of note taker app">
+Landing Page
+<img src="./public/assets/images/main.png" alt="landing page">
+
+View, Write/Save, and Delete Notes
+<img src="./public/assets/images/notes.png" alt="example of note taker app">
  
 ## Technologies
 * HTML
