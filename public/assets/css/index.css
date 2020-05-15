@@ -1,6 +1,5 @@
 body {
-    background-image: url("https://static.vecteezy.com/system/resources/previews/000/101/236/non_2x/free-abstract-background-12-vector.jpg")!important;
-    /* background-image: url("https://c4.wallpaperflare.com/wallpaper/651/624/886/flower-petals-petals-flowers-minimalism-white-hd-wallpaper-preview.jpg"); */
+    background-image: url("../images/background.jpg")!important;
     background-size: cover;
     background-repeat: no-repeat;
 }
