@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/101/236/non_2x/free-abstract-background-12-vector.jpg")!important;
+    /* background-image: url("https://c4.wallpaperflare.com/wallpaper/651/624/886/flower-petals-petals-flowers-minimalism-white-hd-wallpaper-preview.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.jumbotron{
+    margin-top: 165px; 
+    background-color: rgba(252, 228, 228, 0.712); 
+    width: 100%; 
+    height: 400px!important;
+}
+.navbar {
+    background-color: transparent!important;
+    padding: 1%;
+}
+.navText {
+    color: rgb(241, 108, 108)!important;
+    font-family: 'Yesteryear', cursive;
+    font-size: 45px;
+    padding-bottom: 0;
+}
+h1 {
+    color: rgb(236, 57, 57)!important;
+    font-family: 'Lobster', cursive;
+    font-size: 75px!important;
+    margin-top: 30px;
+}
+h3 {
+    font-weight: bold;
+    color: red;
+    font-family: 'Mukta', sans-serif;
+    font-size: 30px;
+}
+img {
+    width: 10%;
+}

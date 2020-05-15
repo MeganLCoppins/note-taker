@@ -19,6 +19,7 @@ html, body {
   width: 100%;
   outline: none;
   border: none;
+  font-family: 'Mukta', sans-serif;
 }
 
 .note-textarea {
@@ -67,4 +68,5 @@ html, body {
   padding: 20px;
   margin-right: 5px;
   cursor: pointer;
+  font-family: 'Mukta', sans-serif;
 }

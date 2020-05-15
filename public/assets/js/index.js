@@ -51,6 +51,7 @@ var renderActiveNote = function() {
 
 // Get the note data from the inputs, save it to the db and update the view
 var handleNoteSave = function() {
+  $newNoteBtn.show();
   var newNote = {
     title: $noteTitle.val(),
     text: $noteText.val()
@@ -98,8 +99,10 @@ var handleNewNoteView = function() {
 var handleRenderSaveBtn = function() {
   if (!$noteTitle.val().trim() || !$noteText.val().trim()) {
     $saveNoteBtn.hide();
+    $newNoteBtn.show();
   } else {
     $saveNoteBtn.show();
+    $newNoteBtn.hide();
   }
 };
 
