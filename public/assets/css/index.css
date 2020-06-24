@@ -2,6 +2,7 @@ body {
   background-image: url("../images/background.jpg") !important;
   background-size: cover;
   background-repeat: no-repeat;
+  margin-bottom: 20%;
 }
 .jumbotron {
   margin-top: 165px;
@@ -41,5 +42,8 @@ img {
   }
   h1 {
     margin-top: 0;
+  }
+  body {
+    margin-bottom: 50%;
   }
 }
